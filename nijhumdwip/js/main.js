@@ -29,7 +29,7 @@ function onEachFeature(feature, layer) {
 }
 
 
-L.tileLayer('http://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {
+L.tileLayer('http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
   attribution: ''
 }).addTo(map);
 
