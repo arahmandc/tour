@@ -1,3 +1,3 @@
 # tour
 
-1. [https://arahmandc.github.io/tour/nijhumdwip](https://arahmandc.github.io/tour/nijhumdwip)
+1. [Nijhum Dwip Tour](https://arahmandc.github.io/tour/nijhumdwip)
