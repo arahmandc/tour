@@ -1,19 +1,19 @@
 var points = {
   "type": "FeatureCollection",
   "features": [
-      {
+    {
       "type": "Feature",
       "properties": {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Deer Watching Place",
-        "image": "deer1.jpg"
+        "place": "Return, Break 03",
+        "image": "stop3.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.013149468750001,22.041861565480001
+          90.457455440689998,23.699222463950001
         ]
       }
     },
@@ -24,13 +24,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Deer Watching Place",
-        "image": "deer2.jpg"
+        "place": "Return, Break 02",
+        "image": "stop2.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.982407328779999,22.04466469126
+          90.593453495350005,23.637896163410002
         ]
       }
     },
@@ -41,13 +41,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Potato Chips Eating",
-        "image": "deer3.jpg"
+        "place": "Return, Break 01",
+        "image": "stop1.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.980787275880004,22.042667081009998
+          90.668391733690001,23.547377953929999
         ]
       }
     },
@@ -58,13 +58,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Crab Curry",
-        "image": "crab.jpg"
+        "place": "coffee with friend",
+        "image": "ruci.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.980965642780006,22.04069181949
+          90.989676112530006,23.37844740481
         ]
       }
     },
@@ -75,13 +75,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Brackish Swamp Forests",
-        "image": "forest.jpg"
+        "place": "Rupban Mura",
+        "image": "rup2.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.010913843509996,22.03939900025
+          91.12912952632,23.436390444619999
         ]
       }
     },
@@ -92,30 +92,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Char",
-        "image": "boat1.jpg"
+        "place": "Rupban Mura",
+        "image": "rup1.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.050310049060002,22.3218921104
-        ]
-      }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ed1b2e",
-        "marker-size": "s",
-        "marker-symbol": "camera",
-        "place": "Special Showering",
-        "image": "bath.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.860452566150002,22.60149177537
+          91.128858623209993,23.436734974739998
         ]
       }
     },
@@ -127,13 +110,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Buffalo Curd",
-        "image": "curd.jpg"
+        "place": "Itakhola Mura",
+        "image": "eta2.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.98093882069,22.039994442409998
+          91.129282413569996,23.43884027915
         ]
       }
     },
@@ -144,13 +127,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Namar Bazar Sea Beach",
-        "image": "beach.jpg"
+        "place": "Itakhola Mura",
+        "image": "eta1.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.973405795100007,22.03918522088
+          91.129758505669997,23.438936253710001
         ]
       }
     },
@@ -161,13 +144,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Hilsa Fishing Trawler",
-        "image": "hilsha.jpg"
+        "place": "Lotikot Mura",
+        "image": "loti.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.013122646659994,22.03999568551
+          91.131519374549995,23.438450229210002
         ]
       }
     },
@@ -178,13 +161,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Nijhum Dwip Ghat",
-        "image": "ghat1.jpg"
+        "place": "World Peace Pagoda Analayo",
+        "image": "musi4.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.032838224019997,22.082647454060002
+          91.135046476720007,23.425586511190001
         ]
       }
     },
@@ -195,13 +178,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Local Engine Boat, Mukter Ghat",
-        "image": "boat.jpg"
+        "place": "Shalban Bihar",
+        "image": "musi3.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.037070729730004,22.090272624200001
+          91.136604842840001,23.425411768109999
         ]
       }
     },
@@ -212,13 +195,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Hungrynaki Breakfast",
-        "image": "breckfast.jpg"
+        "place": "In front of Mainamati Museum",
+        "image": "musi2.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.071252820189997,22.229374063009999
+          91.136800644100006,23.423784946520001
         ]
       }
     },
@@ -229,13 +212,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Tomoroddi Ferry Ghat",
-        "image": "ridoy.jpg"
+        "place": "Mainamati Museum",
+        "image": "musi1.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.075426337419998,22.291153817840001
+          91.136981694550002,23.42361758581
         ]
       }
     },
@@ -246,13 +229,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Sleeping",
-        "image": "sleeping.jpg"
+        "place": "Mainamati War Cemetery",
+        "image": "war2.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.633086814880002,22.857827743120001
+          91.112340240329999,23.48697752927
         ]
       }
     },
@@ -263,13 +246,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Eatting Pao with Froto ",
-        "image": "frutopao.jpg"
+        "place": "Mainamati War Cemetery",
+        "image": "war1.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.586137728690005,23.531294210390001
+          91.113010792579999,23.487253047839999
         ]
       }
     },
@@ -281,13 +264,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Dhaka Medicel",
-        "image": "dm.jpg"
+        "place": "Palace of Queen Maynamati",
+        "image": "palace2.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.397354512069995,23.727274486220001
+          91.107603460220005,23.496144054239998
         ]
       }
     },
@@ -297,13 +280,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Eden College",
-        "image": "eden.jpg"
+        "place": "Palace of Queen Maynamati",
+        "image": "palace1.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.386033579040003,23.72871032254
+          91.108088939040002,23.495715123570001
         ]
       }
     },
