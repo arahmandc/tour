@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-104319' action='modify' visible='true' lat='24.36808842986' lon='88.62658560008'>
+    <tag k='name' v='ruet cafe' />
+  </node>
+  <node id='-104348' action='modify' visible='true' lat='24.36261907138' lon='88.62911492452'>
+    <tag k='name' v='ruet gate' />
+  </node>
+  <node id='-104362' action='modify' visible='true' lat='24.83947266681' lon='88.14839064538'>
+    <tag k='name' v='chamchika mosjid' />
+  </node>
+  <node id='-104388' action='modify' visible='true' lat='24.84176310431' lon='88.14160600238'>
+    <tag k='name' v='0 point' />
+  </node>
+  <node id='-104404' action='modify' visible='true' lat='24.83266072167' lon='88.13830420241'>
+    <tag k='name' v='darashbari madrasha' />
+  </node>
+  <node id='-104433' action='modify' visible='true' lat='24.83239295859' lon='88.1366640316'>
+    <tag k='name' v='darashbari masjid' />
+  </node>
+  <node id='-104451' action='modify' visible='true' lat='24.81358602222' lon='88.14337491855'>
+    <tag k='name' v='sonamosjid' />
+  </node>
+  <node id='-104471' action='modify' visible='true' lat='24.81825181096' lon='88.13940927252'>
+    <tag k='name' v='stone' />
+  </node>
+  <node id='-104486' action='modify' visible='true' lat='24.81804974809' lon='88.13948035106'>
+    <tag k='name' v='mosjid' />
+  </node>
+  <node id='-104502' action='modify' visible='true' lat='24.81797671323' lon='88.13954472408'>
+    <tag k='name' v='tohakhana' />
+  </node>
+  <node id='-104521' action='modify' visible='true' lat='24.81328535096' lon='88.14322203264'>
+    <tag k='name' v='monument' />
+  </node>
+  <node id='-104539' action='modify' visible='true' lat='24.59994084057' lon='88.25480460852'>
+    <tag k='name' v='bridge' />
+  </node>
+  <node id='-104556' action='modify' visible='true' lat='24.60356722656' lon='88.27975585923'>
+    <tag k='name' v='swim' />
+  </node>
+  <node id='-104570' action='modify' visible='true' lat='24.46132060607' lon='88.32114636362'>
+    <tag k='name' v='godabari' />
+  </node>
+  <node id='-104588' action='modify' visible='true' lat='24.37365649716' lon='88.64984974131'>
+    <tag k='name' v='ru boddhovumi' />
+  </node>
+  <node id='-104612' action='modify' visible='true' lat='24.3747705713' lon='88.60814809531'>
+    <tag k='name' v='rail station' />
+  </node>
+  <node id='-104630' action='modify' visible='true' lat='24.37488539721' lon='88.62183809146'>
+    <tag k='name' v='0 rajshahi' />
+  </node>
+  <node id='-104649' action='modify' visible='true' lat='24.36218537434' lon='88.83681446046'>
+    <tag k='name' v='putia01' />
+  </node>
+  <node id='-104667' action='modify' visible='true' lat='24.361674708' lon='88.83695125312'>
+    <tag k='name' v='putia02' />
+  </node>
+  <node id='-104678' action='modify' visible='true' lat='24.36286707282' lon='88.83708938822'>
+    <tag k='name' v='putia03' />
+  </node>
+  <node id='-104689' action='modify' visible='true' lat='24.36392748728' lon='88.83700355753'>
+    <tag k='name' v='putia04' />
+  </node>
+  <node id='-104700' action='modify' visible='true' lat='24.36219148156' lon='88.83509516582'>
+    <tag k='name' v='putia05' />
+  </node>
+  <node id='-104711' action='modify' visible='true' lat='24.19577286684' lon='88.83963345408'>
+    <tag k='name' v='bagha' />
+  </node>
+  <node id='-104726' action='modify' visible='true' lat='24.0023102605' lon='89.20628741249'>
+    <tag k='name' v='pabna mental' />
+  </node>
+  <node id='-104748' action='modify' visible='true' lat='24.06876661614' lon='89.03542935312'>
+    <tag k='name' v='rupsha bridge01' />
+  </node>
+  <node id='-104773' action='modify' visible='true' lat='24.06828171149' lon='89.03554737031'>
+    <tag k='name' v='rupsha bridge02' />
+  </node>
+  <node id='-104784' action='modify' visible='true' lat='24.07086049906' lon='89.03933196992'>
+    <tag k='name' v='pakshi station' />
+  </node>
+  <node id='-104808' action='modify' visible='true' lat='24.07276333612' lon='89.04651760519'>
+    <tag k='name' v='road' />
+  </node>
+  <node id='-104822' action='modify' visible='true' lat='24.0739473858' lon='89.05112162098'>
+    <tag k='name' v='tanel' />
+  </node>
+  <node id='-104837' action='modify' visible='true' lat='24.07433308852' lon='89.05140191182'>
+    <tag k='name' v='rail01' />
+  </node>
+  <node id='-104853' action='modify' visible='true' lat='24.08126941708' lon='89.04661953315'>
+    <tag k='name' v='pabna mosjid' />
+  </node>
+  <node id='-104871' action='modify' visible='true' lat='24.07139192418' lon='89.05050873488'>
+    <tag k='name' v='ruppur' />
+  </node>
+  <node id='-104887' action='modify' visible='true' lat='24.00139017801' lon='89.24499504201'>
+    <tag k='name' v='pabna zor bangla' />
+  </node>
+  <node id='-104914' action='modify' visible='true' lat='24.00459879781' lon='89.23399999604'>
+    <tag k='name' v='tarash zomidar' />
+  </node>
+  <node id='-104935' action='modify' visible='true' lat='23.99897539305' lon='89.23343002528'>
+    <tag k='name' v='pabna dist' />
+  </node>
+  <node id='-104955' action='modify' visible='true' lat='23.99976439991' lon='89.23211574286'>
+    <tag k='name' v='pabna high cort' />
+  </node>
+  <node id='-104974' action='modify' visible='true' lat='24.00789309294' lon='89.23635899886'>
+    <tag k='name' v='eden' />
+  </node>
+  <node id='-104988' action='modify' visible='true' lat='24.73191300627' lon='88.16961228311'>
+    <tag k='name' v='kansart zomidar' />
+  </node>
+  <node id='-104999' action='modify' visible='true' lat='23.85585516247' lon='89.72654325485'>
+    <tag k='name' v='river02' />
+  </node>
+  <node id='-105016' action='modify' visible='true' lat='23.83565987898' lon='89.78006957889'>
+    <tag k='name' v='river01' />
+  </node>
+  <node id='-105027' action='modify' visible='true' lat='24.49589665412' lon='88.31168888927'>
+    <tag k='name' v='shorisha' />
+  </node>
+  <node id='-105045' action='modify' visible='true' lat='24.5982922263' lon='88.28065842122'>
+    <tag k='name' v='ruti' />
+  </node>
+</osm>
