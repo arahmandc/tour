@@ -76,7 +76,7 @@ var points = {
         "marker-size": "s",
         "marker-symbol": "camera",
         "place": "Darashbari Madrasha",
-        "image": "dm2.jpg"
+        "image": "dm.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -227,9 +227,9 @@ var points = {
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ed1b2e",
+        "marker-color": "#ED7000",
         "marker-size": "s",
-        "marker-symbol": "camera",
+        "marker-symbol": "village",
         "place": "Godabari",
         "image": "godabari.jpg"
       },
@@ -743,7 +743,40 @@ var points = {
         ]
       }
     },
+//dffdsg
+                {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Bike Rolling",
+        "image": "ro1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.88024209857,24.19961882931
+        ]
+      }
+    },
 
+                {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Bike Rolling",
+        "image": "ro2.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.41949223399,24.41920332990
+        ]
+      }
+    },
 
 
     
