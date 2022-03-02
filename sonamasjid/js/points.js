@@ -161,7 +161,7 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "tohakhana",
+        "place": "Tohakhana",
         "image": "toka.jpg"
       },
       "geometry": {
@@ -172,19 +172,20 @@ var points = {
       }
     },
 
+//xgg
     {
       "type": "Feature",
       "properties": {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Nijhum Dwip Ghat",
-        "image": "ghat1.jpg"
+        "place": "Monument",
+        "image": "monument.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.032838224019997,22.082647454060002
+          88.143222032639997,24.813285350960001
         ]
       }
     },
@@ -195,13 +196,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Local Engine Boat, Mukter Ghat",
-        "image": "boat.jpg"
+        "place": "Mohananda Bridge",
+        "image": "bridge.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.037070729730004,22.090272624200001
+          88.254804608520004,24.59994084057
         ]
       }
     },
@@ -212,13 +213,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Hungrynaki Breakfast",
-        "image": "breckfast.jpg"
+        "place": "Swim",
+        "image": "swim.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.071252820189997,22.229374063009999
+          88.279755859229994,24.603567226559999
         ]
       }
     },
@@ -229,13 +230,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Tomoroddi Ferry Ghat",
-        "image": "ridoy.jpg"
+        "place": "Godabari",
+        "image": "godabari.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.075426337419998,22.291153817840001
+          88.321146363620002,24.46132060607
         ]
       }
     },
@@ -246,13 +247,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Sleeping",
-        "image": "sleeping.jpg"
+        "place": "RU Boddhovumi",
+        "image": "boddhovumi.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.633086814880002,22.857827743120001
+          88.649849741310007,24.373656497159999
         ]
       }
     },
@@ -263,17 +264,50 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Eatting Pao with Froto ",
-        "image": "frutopao.jpg"
+        "place": "Rail Station ",
+        "image": "station.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.586137728690005,23.531294210390001
+          88.60814809531,24.374770571300001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "orajshahi",
+        "image": "or.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.621838091460006,24.374885397210001
         ]
       }
     },
 
+    //putia  
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Puthia Rajbari",
+        "image": "puthiarajbari.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.836814460460005,24.362185374340001
+        ]
+      }
+    },
 
     {
       "type": "Feature",
@@ -281,13 +315,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Dhaka Medicel",
-        "image": "dm.jpg"
+        "place": "Eden College",
+        "image": "putia02.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.397354512069995,23.727274486220001
+          88.836951253120006,24.361674708
         ]
       }
     },
@@ -298,15 +332,49 @@ var points = {
         "marker-size": "s",
         "marker-symbol": "camera",
         "place": "Eden College",
-        "image": "eden.jpg"
+        "image": "putia03.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.386033579040003,23.72871032254
+          88.837089388219994,24.362867072819999
         ]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Siva Temple ",
+        "image": "sivatemple.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.837003557529997,24.363927487280002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Eden College",
+        "image": "putia05.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.835095165819993,24.36219148156
+        ]
+      }
+    },
+
+    //dfd
     {
       "type": "Feature",
       "properties": {
