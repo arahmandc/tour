@@ -289,9 +289,7 @@ var points = {
           88.621838091460006,24.374885397210001
         ]
       }
-    },
-
-    //putia  
+    },  
     {
       "type": "Feature",
       "properties": {
@@ -315,8 +313,8 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Eden College",
-        "image": "putia02.jpg"
+        "place": "Pancharatno Gobinda Mondir",
+        "image": "pgm.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -331,8 +329,8 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Eden College",
-        "image": "putia03.jpg"
+        "place": "Dol Temple",
+        "image": "dt.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -363,8 +361,8 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Eden College",
-        "image": "putia05.jpg"
+        "place": "Boro Anhik Mandir",
+        "image": "bam.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -373,6 +371,253 @@ var points = {
         ]
       }
     },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Bagha Shahi Mosque",
+        "image": "bagha.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.839633454080001,24.195772866839999
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Pabna Mental Clinic",
+        "image": "pc.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.206287412489999,24.0023102605
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Hardinge Bridge",
+        "image": "hb.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.035429353119994,24.06876661614
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Lalon Shah Bridge",
+        "image": "lsb.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.035547370309999,24.068281711489998
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Pakshi Railway Station",
+        "image": "paksi.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.039331969919999,24.07086049906
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Road",
+        "image": "rd.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.046517605190004,24.072763336120001
+        ]
+      }
+    },
+
+    //4444
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Tanel",
+        "image": "t.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.051121620979998,24.0739473858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Rail",
+        "image": "rail.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.051401911819994,24.07433308852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Furfura Sharif Complex",
+        "image": "mosqe.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.046619533149993,24.081269417080001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Ruppur Nuclear Power Plant",
+        "image": "npp.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.050508734879998,24.071391924179999
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Jor Bangla Mandir",
+        "image": "jb.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.244995042010004,24.001390178009999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Tarash Bhaban",
+        "image": "tbo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.233999996039998,24.004598797810001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Pabna DC Office",
+        "image": "pdo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.233430025280001,23.998975393049999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Pabna Judge Court",
+        "image": "pjc.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.232115742860003,23.999764399909999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Eden Hotel",
+        "image": "eden.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.236358998859998,24.007893092940002
+        ]
+      }
+    },
+
+
+    
 
     //dfd
     {
