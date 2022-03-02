@@ -281,7 +281,7 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Dhaka Medicel",
+        "place": "Dhaka Medical",
         "image": "dm.jpg"
       },
       "geometry": {
