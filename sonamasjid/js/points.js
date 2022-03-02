@@ -7,13 +7,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Deer Watching Place",
-        "image": "deer1.jpg"
+        "place": "Ruet Cafe",
+        "image": "ruet02.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.013149468750001,22.041861565480001
+          88.626585600080006,24.368088429859998
         ]
       }
     },
@@ -24,13 +24,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Deer Watching Place",
-        "image": "deer2.jpg"
+        "place": "Ruet",
+        "image": "ruet01.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.982407328779999,22.04466469126
+          88.629114924519996,24.362619071379999
         ]
       }
     },
@@ -41,13 +41,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Potato Chips Eating",
-        "image": "deer3.jpg"
+        "place": "Chamchika Mosjid",
+        "image": "cm.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.980787275880004,22.042667081009998
+          88.148390645380005,24.83947266681
         ]
       }
     },
@@ -58,13 +58,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Crab Curry",
-        "image": "crab.jpg"
+        "place": "0 point",
+        "image": "o.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.980965642780006,22.04069181949
+          88.141606002380001,24.841763104310001
         ]
       }
     },
@@ -75,13 +75,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Brackish Swamp Forests",
-        "image": "forest.jpg"
+        "place": "Darashbari Madrasha",
+        "image": "dm2.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.010913843509996,22.03939900025
+          88.138304202409998,24.832660721669999
         ]
       }
     },
@@ -92,13 +92,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Char",
-        "image": "boat1.jpg"
+        "place": "Darashbari Masjid",
+        "image": "dbm.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.050310049060002,22.3218921104
+          88.136664031600006,24.832392958589999
         ]
       }
     },
@@ -109,13 +109,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Special Showering",
-        "image": "bath.jpg"
+        "place": "Sona Mosjid",
+        "image": "sm.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.860452566150002,22.60149177537
+          88.143374918549995,24.813586022220001
         ]
       }
     },
@@ -127,13 +127,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Buffalo Curd",
-        "image": "curd.jpg"
+        "place": "Stone",
+        "image": "stone.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.98093882069,22.039994442409998
+          88.139409272519998,24.81825181096
         ]
       }
     },
@@ -144,13 +144,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Namar Bazar Sea Beach",
-        "image": "beach.jpg"
+        "place": "Mosjid",
+        "image": "ms.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.973405795100007,22.03918522088
+          88.139480351060001,24.818049748090001
         ]
       }
     },
@@ -161,13 +161,13 @@ var points = {
         "marker-color": "#ed1b2e",
         "marker-size": "s",
         "marker-symbol": "camera",
-        "place": "Hilsa Fishing Trawler",
-        "image": "hilsha.jpg"
+        "place": "tohakhana",
+        "image": "toka.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.013122646659994,22.03999568551
+          88.139544724079997,24.817976713229999
         ]
       }
     },
