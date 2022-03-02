@@ -556,7 +556,7 @@ var points = {
         "marker-size": "s",
         "marker-symbol": "camera",
         "place": "Tarash Bhaban",
-        "image": "tbo.jpg"
+        "image": "tarash.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -690,6 +690,56 @@ var points = {
         "type": "Point",
         "coordinates": [
           88.280658421219997,24.5982922263
+        ]
+      }
+    },
+
+    //
+            {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Tomb",
+        "image": "tomb.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.14358815417,24.81379174423
+        ]
+      }
+    },
+            {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Rajshahi University",
+        "image": "ru.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.63762019992,24.36617534961
+        ]
+      }
+    },
+            {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Kotwali Darwaza",
+        "image": "op.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.14121841848,24.84289005851
         ]
       }
     },
