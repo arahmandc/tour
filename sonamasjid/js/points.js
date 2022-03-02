@@ -468,8 +468,6 @@ var points = {
       }
     },
 
-    //4444
-
     {
       "type": "Feature",
       "properties": {
@@ -615,6 +613,87 @@ var points = {
         ]
       }
     },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Kansat Jomiderbari",
+        "image": "kjb.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.169612283109998,24.731913006269998
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Padma River",
+        "image": "pr.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.72654325485,23.85585516247
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Paturia Launch Tarminal",
+        "image": "plt.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.780069578889993,23.83565987898
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Mustard Field",
+        "image": "mustard.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.311688889270002,24.495896654119999
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed1b2e",
+        "marker-size": "s",
+        "marker-symbol": "camera",
+        "place": "Kalai Ruti Dokan",
+        "image": "ruti.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.280658421219997,24.5982922263
+        ]
+      }
+    },
+
 
 
     
